@@ -22,7 +22,7 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: Postdoc
+  - title: Postdoc (Plant Microbiome Applications)
     company: NIOO-KNAW
     company_url: ''
     company_logo: ''
@@ -31,7 +31,7 @@ experience:
     date_end: ''
     description: ''
         
-  - title: Professor of Semiconductor Physics
+  - title: Postdoc
     company: University X
     company_url: ''
     company_logo: org-x
