@@ -43,25 +43,25 @@ __Phytobiomes__ 3:3-21. https://doi.org/10.1094/PBIOMES-01-19-0006-W
 
  - Meinhardt, Stopnisek, Pannu, Strand, Fransen, Casciotti, Stahl (2018) Ammonia-oxidizing
 bacteria are the primary N2O producers in an ammonia-oxidizing archaea dominated
-alkaline agricultural soil. __Environmental Microbiology__ 20: 2195-206.
+alkaline agricultural soil. __Environmental Microbiology__ 20: 2195-206.  https://doi.org/10.1111/1462-2920.14246
 
 ## 2016
 
  - Stopnisek, Zühlke, Carlier, Barberan, Fierer, Becher, Riedel, Eberl, Weisskopf (2016). Molecular
-mechanisms underlying the close association between soil Burkholderia and fungi. __ISMEJ__ 10:253-64.
+mechanisms underlying the close association between soil Burkholderia and fungi. __ISMEJ__ 10:253-64. https://doi.org/10.1038/ismej.2015.73
 
 ## 2014
 
  - Stopnisek, Bodenhausen, Frey, Fierer, Eberl, Weisskopf (2014). Genus-wide acid tolerance
 accounts for the biogeographical distribution of soil Burkholderia populations. __Environmental
-Microbiology__ 16:1503-12.
+Microbiology__ 16:1503-12. https://doi.org/10.1111/1462-2920.12211
 
  - Kost, Stopnisek, Agnoli, Eberl, Weisskopf (2014). Oxalotrophy, a widespread trait of plantassociated
 Burkholderia species, is involved in successful root colonization of lupin and maize
-by Burkholderia phytofirmans. __Frontiers in Microbiology__ 4:1-9.
+by Burkholderia phytofirmans. __Frontiers in Microbiology__ 4:1-9. https://doi.org/10.3389/fmicb.2013.00421
 
 ## 2010
 
 - Stopnisek, Gubry-Rangin, Höfferle, Nicol, Mandic-Mulec, Prosser (2010). Thaumarchaeal
 ammonia oxidation in an acidic forest peat soil is not influenced by ammonium amendment.
-__Applied and environmental microbiology__ 76:7626-34.
+__Applied and environmental microbiology__ 76:7626-34. https://doi.org/10.1128/AEM.00595-10
