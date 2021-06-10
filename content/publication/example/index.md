@@ -1,5 +1,5 @@
 ---
-title: "An example conference paper"
+title: "The Chemistry of Stress: Understanding the ‘Cry for Help’ of Plant Roots"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
@@ -32,7 +32,7 @@ publication_short: Now out in Metabolites
 abstract: Plants are faced with various biotic and abiotic stresses during their life cycle. To withstand these stresses, plants have evolved adaptive strategies including the production of a wide array of primary and secondary metabolites. Some of these metabolites can have direct defensive effects, while others act as chemical cues attracting beneficial (micro)organisms for protection. Similar to aboveground plant tissues, plant roots also appear to have evolved “a cry for help” response upon exposure to stress, leading to the recruitment of beneficial microorganisms to help minimize the damage caused by the stress. Furthermore, emerging evidence indicates that microbial recruitment to the plant roots is, at least in part, mediated by quantitative and/or qualitative changes in root exudate composition. Both volatile and water-soluble compounds have been implicated as important signals for the recruitment and activation of beneficial root-associated microbes. Here we provide an overview of our current understanding of belowground chemical communication, particularly how stressed plants shape its protective root microbiome.
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary: A review summarizing recent findings and understandings about the cry-for-help chemical signals produced by plants.   
 
 tags: []
 
