@@ -10,6 +10,7 @@ header:
 ---
 
 Google Scholar profile can be used to obtain full publication list and citation statistics.
+* denotes equal contribution
 
 ## 2021
 
@@ -25,7 +26,7 @@ interspecies interactions. ISMEJ.
 
 ## 2019
 
- - Shade, Stopnisek (2019). Abundance-occupancy distributions prioritize core microbiomes from
+ - Shade and __Stopnisek__ (2019). Abundance-occupancy distributions prioritize core microbiomes from
 sequencing datasets. Current Opinion in Microbiology 49:50-58.
 
  - Grady*, Sorensen*, __Stopnisek*__, Guittar, Shade (2019). Assembly and seasonality of core
@@ -44,7 +45,7 @@ alkaline agricultural soil. Environmental Microbiology 20: 2195-206.
 
 ## 2016
 
- - Stopnisek, Zühlke, Carlier, Barberan, Fierer, Becher, Riedel, Eberl, Weisskopf (2016). Molecular
+ - __Stopnisek__, Zühlke, Carlier, Barberan, Fierer, Becher, Riedel, Eberl, Weisskopf (2016). Molecular
 mechanisms underlying the close association between soil Burkholderia and fungi. ISMEJ
 10:253-64.
 
