@@ -22,23 +22,32 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: Postdoc (Plant Microbiome Applications)
+  - title: Postdoc
     company: NIOO-KNAW
     company_url: ''
     company_logo: ''
     location: Wageningen, Netherlands
     date_start: '2021-01-01'
     date_end: ''
-    description: ''
+    description: Plant microbiome applications.
         
   - title: Postdoc
-    company: University X
+    company: Michigan State University
     company_url: ''
-    company_logo: org-x
-    location: California
-    date_start: '2016-01-01'
+    company_logo: ''
+    location: East Lansing, MI, USA
+    date_start: '2017-04-01'
     date_end: '2020-12-31'
-    description: Taught electronic engineering and researched semiconductor physics.
+    description: Plant microbiome diversity and function.
+    
+  - title: Postdoc
+    company: University of Washington
+    company_url: ''
+    company_logo: ''
+    location: Seattle, WA, USA
+    date_start: '2014-11-01'
+    date_end: '2017-03-31'
+    description: Ecology and evolution of interkingdom interactions.
 
 design:
   columns: '2'
