@@ -10,7 +10,7 @@ header:
 ---
 
 Google Scholar profile can be used to obtain full publication list and citation statistics.
-* denotes equal contribution
+*-denotes equal contribution
 
 ## 2021
 
