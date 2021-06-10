@@ -67,8 +67,12 @@ email: ""
 highlight_name: false
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I am currently a postdoctoral scholar at the Netherlands Institute of Ecology working with [Jos Raaijmakers](https://nioo.knaw.nl/en/employees/jos-raaijmakers). My research goal is to elucidate and exploit the drivers and consequences of biotic interactions on ecosystem functioning and host wellbeing to mitigate effects of future environmental changes. 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+My research is based around plant-microbe interactions and soil microbiome. In particular, I is interested in how: 
+
+i) __tripartite interactions of plant-soil-microbe will be affected by the climate change and what consequences will that have on agroecosystem functioning and crop production__
+
+ii) __microbial driven nutrient cycling under climate change and at macro- and micro- scales in terrestrial systems.__
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
