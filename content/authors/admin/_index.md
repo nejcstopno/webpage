@@ -75,4 +75,3 @@ i) __tripartite interactions of plant-soil-microbe will be affected by the clima
 
 ii) __microbial driven nutrient cycling under climate change and at macro- and micro- scales in terrestrial systems.__
 
-# {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
