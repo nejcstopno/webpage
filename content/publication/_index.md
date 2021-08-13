@@ -14,8 +14,8 @@ Google Scholar profile can be used to obtain full publication list and citation 
 *-denotes equal contribution
 
 ## 2021
-- Rizaludin, Stopnisek, Raaijmakers, Garbeva (2021). The Chemistry of Stress: Understanding the
-‘Cry for Help’ of Plant Roots. Metabolites 11, 357. https://doi.org/10.3390/metabo11060357
+- Hunt, Forbes, Taub, Elliott, Hardwicke, Petersen, Stopnisek, Stahl (2021). An automated multiplexed turbidometric and data collection system for measuring growth kinetics of anaerobes dependent on gaseous substrates.
+Journal of Microbiological Methods 188. https://doi.org/10.1016/j.mimet.2021.106294
 
  - Rizaludin, Stopnisek, Raaijmakers, Garbeva (2021). The Chemistry of Stress: Understanding the
 ‘Cry for Help’ of Plant Roots. Metabolites 11, 357. https://doi.org/10.3390/metabo11060357
@@ -40,21 +40,23 @@ alkaline agricultural soil. Environmental Microbiology 20: 2195-206.  https://do
 
 ## 2016
 
- - Stopnisek, Zühlke, Carlier, Barberan, Fierer, Becher, Riedel, Eberl, Weisskopf (2016). Molecular
-mechanisms underlying the close association between soil Burkholderia and fungi. ISMEJ 10:253-64. https://doi.org/10.1038/ismej.2015.73
+ - Stopnisek, Zühlke, Carlier, Barberan, Fierer, Becher, Riedel, Eberl, Weisskopf (2016). Molecular mechanisms underlying the close association between soil Burkholderia and fungi. ISMEJ 10:253-64. https://doi.org/10.1038/ismej.2015.73
 
 ## 2014
 
- - Stopnisek, Bodenhausen, Frey, Fierer, Eberl, Weisskopf (2014). Genus-wide acid tolerance
-accounts for the biogeographical distribution of soil Burkholderia populations. Environmental
-Microbiology 16:1503-12. https://doi.org/10.1111/1462-2920.12211
+ - Stopnisek, Bodenhausen, Frey, Fierer, Eberl, Weisskopf (2014). Genus-wide acid tolerance accounts for the biogeographical distribution of soil Burkholderia populations. Environmental Microbiology 16:1503-12. https://doi.org/10.1111/1462-2920.12211
 
- - Kost, Stopnisek, Agnoli, Eberl, Weisskopf (2014). Oxalotrophy, a widespread trait of plantassociated
-Burkholderia species, is involved in successful root colonization of lupin and maize
-by Burkholderia phytofirmans. Frontiers in Microbiology 4:1-9. https://doi.org/10.3389/fmicb.2013.00421
+ - Kost, Stopnisek, Agnoli, Eberl, Weisskopf (2014). Oxalotrophy, a widespread trait of plant associated Burkholderia species, is involved in successful root colonization of lupin and maize by Burkholderia phytofirmans. Frontiers in Microbiology 4:1-9. https://doi.org/10.3389/fmicb.2013.00421
 
 ## 2010
 
-- Stopnisek, Gubry-Rangin, Höfferle, Nicol, Mandic-Mulec, Prosser (2010). Thaumarchaeal
-ammonia oxidation in an acidic forest peat soil is not influenced by ammonium amendment.
-Applied and environmental microbiology 76:7626-34. https://doi.org/10.1128/AEM.00595-10
+- Stopnisek, Gubry-Rangin, Höfferle, Nicol, Mandic-Mulec, Prosser (2010). Thaumarchaeal ammonia oxidation in an acidic forest peat soil is not influenced by ammonium amendment. Applied and environmental microbiology 76:7626-34. https://doi.org/10.1128/AEM.00595-10
+
+# Manuscripts in review
+
+- Chuang Howe, Stopnisek, Dooley, Yang, Grady, Shade. Genome-centric analyses of seasonal phyllosphere microbiome activities in perennial crops. bioRxiv.
+https://doi.org/10.1101/2021.04.20.440608
+
+- Bintarti, Sulesky-Grieb, Stopnisek, Shade. Endophytic microbiome variation at the level of a single plant seed. bioRxiv. https://doi.org/10.1101/2021.04.27.441449
+
+- Guedes Stehling, Rueda Furlan, Lopes, Angelino Savazzi, Chodkowski, Stopnisek, Shade. Metagenomic analysis reveals a diverse resistome and virulome in aquatic environments from Brazil.
